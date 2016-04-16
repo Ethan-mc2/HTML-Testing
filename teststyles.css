@@ -1,0 +1,44 @@
+body {
+background-color:black;
+}
+h1 {
+color:aqua;
+font-family:verdana, geneva, sans-serif;
+text-align:center;
+margin: 40px;
+}
+h2 {
+color:black;
+font-family:"arial black", gadget, sans-serif;
+text-align:center;
+border: 2px solid white;
+padding: 10px;
+margin: 30px;
+background-color:#0066ff;
+}
+h3 {
+    color:yellow;
+    padding:15px;
+    text-align: center;
+    border:15px dotted green;
+    font-family: arial;
+}
+p {
+color:white;
+font-family:"comic sans ms", cursive, sans-serif;
+                    }
+#two {
+color:red;
+font-family:arial;
+font-size:140%;
+}
+h2.blu {
+    color:blue;
+    background-color:white
+}
+h3.blu {
+    color:blue;
+    background-color:white;
+    font-size: 140%;
+    border-style: dashed double groove double;
+}
